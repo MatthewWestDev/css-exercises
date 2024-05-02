@@ -1,0 +1,26 @@
+p.odd {
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 16px;
+}
+
+div.even {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+    
+}
+
+p.three {
+    font-size: 26px;
+}
+
+#four {
+    background-color: rgb(152, 251, 152);
+    font-size: 24px;
+    font-weight: bold;
+
+}
