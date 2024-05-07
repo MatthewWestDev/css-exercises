@@ -5,8 +5,6 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-
-
 }
 
 .header {
@@ -57,8 +55,6 @@ a {
 .content {
   padding: 48px;
   display: flex;
-  align-items: stretch;
-  align-content: stretch;
   flex-wrap: wrap;
   gap: 48px;
 }
@@ -66,8 +62,7 @@ a {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-  flex-basis: 200px;
-  flex-grow: 1;
+  flex-basis: 300px;
   padding: 25px;
 }
 
@@ -78,5 +73,4 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-grow: 0;
 }
